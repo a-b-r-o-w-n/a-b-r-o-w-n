@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+---
+
+### 👨🏻‍💻 Recent Activity
+
+<!--START_SECTION:activity-->
+
+---
+
 <!--
 **a-b-r-o-w-n/a-b-r-o-w-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
