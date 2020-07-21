@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a frontend engineer currently working on applications and tools for building bots using the [Microsoft Bot Framework](https://dev.botframework.com/).
+
+My latest project is [Composer](https://github.com/microsoft/BotFramework-Composer) -- a visual bot designer. Check it out!
+
 ---
 
 ### 👨🏻‍💻 Recent Activity
