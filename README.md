@@ -9,11 +9,11 @@ My latest project is [Composer](https://github.com/microsoft/BotFramework-Compos
 ### 👨🏻‍💻 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3996](https://github.com//microsoft/BotFramework-Composer/issues/3996) in [microsoft/BotFramework-Composer](https://github.com//microsoft/BotFramework-Composer)
-2. ❗️ Opened issue [#3995](https://github.com//microsoft/BotFramework-Composer/issues/3995) in [microsoft/BotFramework-Composer](https://github.com//microsoft/BotFramework-Composer)
-3. ❗️ Opened issue [#3994](https://github.com//microsoft/BotFramework-Composer/issues/3994) in [microsoft/BotFramework-Composer](https://github.com//microsoft/BotFramework-Composer)
-4. ❗️ Opened issue [#3993](https://github.com//microsoft/BotFramework-Composer/issues/3993) in [microsoft/BotFramework-Composer](https://github.com//microsoft/BotFramework-Composer)
-5. ❗️ Opened issue [#3992](https://github.com//microsoft/BotFramework-Composer/issues/3992) in [microsoft/BotFramework-Composer](https://github.com//microsoft/BotFramework-Composer)
+1. ❗️ Opened issue [#4004](https://github.com//microsoft/BotFramework-Composer/issues/4004) in [microsoft/BotFramework-Composer](https://github.com//microsoft/BotFramework-Composer)
+2. ❗️ Opened issue [#4003](https://github.com//microsoft/BotFramework-Composer/issues/4003) in [microsoft/BotFramework-Composer](https://github.com//microsoft/BotFramework-Composer)
+3. ❗️ Opened issue [#4002](https://github.com//microsoft/BotFramework-Composer/issues/4002) in [microsoft/BotFramework-Composer](https://github.com//microsoft/BotFramework-Composer)
+4. ❗️ Opened issue [#4001](https://github.com//microsoft/BotFramework-Composer/issues/4001) in [microsoft/BotFramework-Composer](https://github.com//microsoft/BotFramework-Composer)
+5. ❗️ Opened issue [#4000](https://github.com//microsoft/BotFramework-Composer/issues/4000) in [microsoft/BotFramework-Composer](https://github.com//microsoft/BotFramework-Composer)
 <!--END_SECTION:activity-->
 
 ---
