@@ -9,11 +9,11 @@ My latest project is [Composer](https://github.com/microsoft/BotFramework-Compos
 ### 👨🏻‍💻 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3496](https://github.com/microsoft/botframework-solutions/issues/3496) in [microsoft/botframework-solutions](https://github.com/microsoft/botframework-solutions)
-2. ❗️ Closed issue [#2527](https://github.com/microsoft/botbuilder-js/issues/2527) in [microsoft/botbuilder-js](https://github.com/microsoft/botbuilder-js)
-3. 🗣 Commented on [#2527](https://github.com/microsoft/botbuilder-js/issues/2527) in [microsoft/botbuilder-js](https://github.com/microsoft/botbuilder-js)
-4. 🗣 Commented on [#5007](https://github.com/microsoft/botbuilder-dotnet/issues/5007) in [microsoft/botbuilder-dotnet](https://github.com/microsoft/botbuilder-dotnet)
-5. ❗️ Closed issue [#474](https://github.com/microsoft/botframework-components/issues/474) in [microsoft/botframework-components](https://github.com/microsoft/botframework-components)
+1. 🗣 Commented on [#5589](https://github.com/microsoft/BotFramework-Composer/issues/5589) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
+2. 🗣 Commented on [#3496](https://github.com/microsoft/botframework-solutions/issues/3496) in [microsoft/botframework-solutions](https://github.com/microsoft/botframework-solutions)
+3. ❗️ Closed issue [#2527](https://github.com/microsoft/botbuilder-js/issues/2527) in [microsoft/botbuilder-js](https://github.com/microsoft/botbuilder-js)
+4. 🗣 Commented on [#2527](https://github.com/microsoft/botbuilder-js/issues/2527) in [microsoft/botbuilder-js](https://github.com/microsoft/botbuilder-js)
+5. 🗣 Commented on [#5007](https://github.com/microsoft/botbuilder-dotnet/issues/5007) in [microsoft/botbuilder-dotnet](https://github.com/microsoft/botbuilder-dotnet)
 <!--END_SECTION:activity-->
 
 ---
