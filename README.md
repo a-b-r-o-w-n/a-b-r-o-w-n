@@ -9,11 +9,11 @@ My latest project is [Composer](https://github.com/microsoft/BotFramework-Compos
 ### 👨🏻‍💻 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/esbuild/community-plugins/issues/28) in [esbuild/community-plugins](https://github.com/esbuild/community-plugins)
-2. 💪 Opened PR [#28](https://github.com/esbuild/community-plugins/pull/28) in [esbuild/community-plugins](https://github.com/esbuild/community-plugins)
-3. 🎉 Merged PR [#5700](https://github.com/microsoft/BotFramework-Composer/pull/5700) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
-4. ❗️ Closed issue [#5650](https://github.com/microsoft/BotFramework-Composer/issues/5650) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
-5. 🎉 Merged PR [#5696](https://github.com/microsoft/BotFramework-Composer/pull/5696) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
+1. 💪 Opened PR [#5725](https://github.com/microsoft/BotFramework-Composer/pull/5725) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
+2. 🗣 Commented on [#28](https://github.com/esbuild/community-plugins/issues/28) in [esbuild/community-plugins](https://github.com/esbuild/community-plugins)
+3. 💪 Opened PR [#28](https://github.com/esbuild/community-plugins/pull/28) in [esbuild/community-plugins](https://github.com/esbuild/community-plugins)
+4. 🎉 Merged PR [#5700](https://github.com/microsoft/BotFramework-Composer/pull/5700) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
+5. ❗️ Closed issue [#5650](https://github.com/microsoft/BotFramework-Composer/issues/5650) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
 <!--END_SECTION:activity-->
 
 ---
