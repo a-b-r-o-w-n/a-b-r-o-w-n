@@ -9,11 +9,11 @@ My latest project is [Composer](https://github.com/microsoft/BotFramework-Compos
 ### 👨🏻‍💻 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6347](https://github.com/microsoft/BotFramework-Composer/pull/6347) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
-2. 💪 Opened PR [#6347](https://github.com/microsoft/BotFramework-Composer/pull/6347) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
-3. 🎉 Merged PR [#6089](https://github.com/microsoft/BotFramework-Composer/pull/6089) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
-4. ❌ Reopened PR [#6089](https://github.com/microsoft/BotFramework-Composer/pull/6089) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
-5. ❌ Closed PR [#6089](https://github.com/microsoft/BotFramework-Composer/pull/6089) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
+1. 🗣 Commented on [#6382](https://github.com/microsoft/BotFramework-Composer/issues/6382) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
+2. 🗣 Commented on [#6396](https://github.com/microsoft/BotFramework-Composer/issues/6396) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
+3. 🎉 Merged PR [#6347](https://github.com/microsoft/BotFramework-Composer/pull/6347) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
+4. 💪 Opened PR [#6347](https://github.com/microsoft/BotFramework-Composer/pull/6347) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
+5. 🎉 Merged PR [#6089](https://github.com/microsoft/BotFramework-Composer/pull/6089) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
 <!--END_SECTION:activity-->
 
 ---
