@@ -9,11 +9,11 @@ My latest project is [Composer](https://github.com/microsoft/BotFramework-Compos
 ### 👨🏻‍💻 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6884](https://github.com/microsoft/BotFramework-Composer/issues/6884) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
-2. 🎉 Merged PR [#7344](https://github.com/microsoft/BotFramework-Composer/pull/7344) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
-3. ❗️ Closed issue [#7323](https://github.com/microsoft/BotFramework-Composer/issues/7323) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
-4. ❗️ Closed issue [#7106](https://github.com/microsoft/BotFramework-Composer/issues/7106) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
-5. 🎉 Merged PR [#7357](https://github.com/microsoft/BotFramework-Composer/pull/7357) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
+1. 🗣 Commented on [#479](https://github.com/alangpierce/sucrase/issues/479) in [alangpierce/sucrase](https://github.com/alangpierce/sucrase)
+2. 🗣 Commented on [#6884](https://github.com/microsoft/BotFramework-Composer/issues/6884) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
+3. 🎉 Merged PR [#7344](https://github.com/microsoft/BotFramework-Composer/pull/7344) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
+4. ❗️ Closed issue [#7323](https://github.com/microsoft/BotFramework-Composer/issues/7323) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
+5. ❗️ Closed issue [#7106](https://github.com/microsoft/BotFramework-Composer/issues/7106) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
 <!--END_SECTION:activity-->
 
 ---
