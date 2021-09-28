@@ -10,10 +10,10 @@ My latest project is [Composer](https://github.com/microsoft/BotFramework-Compos
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#8691](https://github.com/microsoft/BotFramework-Composer/issues/8691) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
-2. ❗️ Opened issue [#8678](https://github.com/microsoft/BotFramework-Composer/issues/8678) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
-3. ❗️ Opened issue [#8677](https://github.com/microsoft/BotFramework-Composer/issues/8677) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
-4. 🎉 Merged PR [#8530](https://github.com/microsoft/BotFramework-Composer/pull/8530) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
-5. ❗️ Closed issue [#8534](https://github.com/microsoft/BotFramework-Composer/issues/8534) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
+2. 🗣 Commented on [#8691](https://github.com/microsoft/BotFramework-Composer/issues/8691) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
+3. ❗️ Opened issue [#8678](https://github.com/microsoft/BotFramework-Composer/issues/8678) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
+4. ❗️ Opened issue [#8677](https://github.com/microsoft/BotFramework-Composer/issues/8677) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
+5. 🎉 Merged PR [#8530](https://github.com/microsoft/BotFramework-Composer/pull/8530) in [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
 <!--END_SECTION:activity-->
 
 ---
